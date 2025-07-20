@@ -1,0 +1,10 @@
+<div class="container">
+  <input [(ngModel)]="symbol" placeholder="Enter symbol" />
+  <button (click)="fetchStock()">Check</button>
+
+  <div *ngIf="stock">
+    <h2>{{ stock.symbol }}</h2>
+    <p>Price: ${{ stock.price }}</p>
+    <p>Change: {{ stock.changePercent }}</p>
+  </div>
+</div>

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "G4SFvXnvJ+jmSM5DEYlqJq8QtsQMGn6TdW+MdP8bCxA=",
+  "Source": "StockCheckerAPI",
+  "BasePath": "_content/StockCheckerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
